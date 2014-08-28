@@ -1,1 +1,3 @@
-some modified file
+This is a more descriptive piece of information in this
+first text file.
+

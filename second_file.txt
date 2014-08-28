@@ -1,1 +1,2 @@
-foo
+This is the second file and its description is also modified
+
