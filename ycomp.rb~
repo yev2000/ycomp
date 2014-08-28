@@ -1,0 +1,14 @@
+class Ycomp
+  def initialize(path1=nil, path2=nil)
+    #
+    #
+    #
+  end
+
+
+  def compare()
+    #
+    #
+  end
+
+end
