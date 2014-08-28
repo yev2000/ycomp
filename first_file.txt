@@ -1,3 +1,5 @@
 This is a more descriptive piece of information in this
-first text file.
+first ASCII text file.
+
+This file comes before all other files.
 

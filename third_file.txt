@@ -1,2 +1,2 @@
-Modified text in the third file now.  Much prettier.
+Modified text in the third (and last) file now.  Much prettier.
 
